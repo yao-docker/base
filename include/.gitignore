@@ -1,0 +1,5 @@
+*
+!.gitignore
+
+!etc/
+!s6-overlay-amd64.tar.gz

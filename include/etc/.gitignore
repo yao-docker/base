@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!apk/
+!cont-finish.d/
+!cont-init.d/
+!fix-attrs.d/
+!services.d/
+!localtime
