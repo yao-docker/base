@@ -3,6 +3,6 @@ MAINTAINER Snakevil Zen <zsnakevil@gmail.com>
 
 ENTRYPOINT [ "/init" ]
 
-ADD share/docker/ share/lib/s6-overlay-amd64-latest.tar.gz /
+ADD include/s6-overlay-amd64-latest.tar.gz share/docker/ /
 
 # vi:tw=120:
