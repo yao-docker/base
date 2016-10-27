@@ -6,7 +6,7 @@ snakevil/base
 [alpine]: http://alpinelinux.org
 [s6-overlay]: https://github.com/just-containers/s6-overlay
 
-EXPOSE
+VOLUME
 ---
 
 * `/mnt/_`
