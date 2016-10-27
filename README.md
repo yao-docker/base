@@ -6,6 +6,13 @@ snakevil/base
 [alpine]: http://alpinelinux.org
 [s6-overlay]: https://github.com/just-containers/s6-overlay
 
+EXPOSE
+---
+
+* `/mnt/_`
+
+    导入导出资源的挂载卷。
+
 目录结构
 ---
 
