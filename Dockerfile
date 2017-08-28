@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.6
 MAINTAINER Snakevil Zen <zsnakevil@gmail.com>
 
 ENTRYPOINT [ "/init" ]
