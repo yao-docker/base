@@ -1,4 +1,4 @@
-snakevil/base
+yao-docker/base
 ===
 
 基于 [Alpine Linux][alpine]:3.6 和 [just-containers/s6-overlay][s6-overlay] 构建地基础镜像。

@@ -1,5 +1,5 @@
-FROM alpine:3.6
-MAINTAINER Snakevil Zen <zsnakevil@gmail.com>
+FROM alpine:latest
+MAINTAINER Yao <yaogaoyu@gmail.com>
 
 ENTRYPOINT [ "/init" ]
 
